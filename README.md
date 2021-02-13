@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Roxy.
+- 👀 I’m interested in front end development and ui/ux design
+- 🌱 I’m currently learning javascript/react/typescript
+- 📫 How to reach me: roxy3631@gmail.com
